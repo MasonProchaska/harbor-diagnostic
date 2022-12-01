@@ -1,3 +1,10 @@
+# Comparison
+![alt text](https://i.gyazo.com/5fbc6be766d7818dfb944ba4aebebf3a.png)
+
+# Walkthrough
+https://user-images.githubusercontent.com/22166590/205131528-51ae031a-d5c1-43f9-937a-3a2c82817354.mov
+
+
 # HarborDiagnostic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
